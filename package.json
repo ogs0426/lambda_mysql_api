@@ -1,0 +1,17 @@
+{
+  "name": "voucher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "aws-sdk": "^2.1259.0",
+    "ioredis": "^5.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
